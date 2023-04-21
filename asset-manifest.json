@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6c962217.chunk.css",
+    "main.js": "/Portfolio/static/js/main.91f09e16.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.91f09e16.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.13c83a90.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.13c83a90.js.map",
+    "static/js/2.906af6af.chunk.js": "/Portfolio/static/js/2.906af6af.chunk.js",
+    "static/js/2.906af6af.chunk.js.map": "/Portfolio/static/js/2.906af6af.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.6c962217.chunk.css.map": "/Portfolio/static/css/main.6c962217.chunk.css.map",
+    "static/js/2.906af6af.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.906af6af.chunk.js.LICENSE.txt",
+    "static/media/crci.e1c29097.jpg": "/Portfolio/static/media/crci.e1c29097.jpg",
+    "static/media/delicious.41626c15.jpg": "/Portfolio/static/media/delicious.41626c15.jpg",
+    "static/media/echecs.00b0f27c.png": "/Portfolio/static/media/echecs.00b0f27c.png",
+    "static/media/efs-gestion.adf6bae4.jpg": "/Portfolio/static/media/efs-gestion.adf6bae4.jpg",
+    "static/media/me_portrait.3cd91c10.jpeg": "/Portfolio/static/media/me_portrait.3cd91c10.jpeg",
+    "static/media/prixbanque.dd6e50b9.jpg": "/Portfolio/static/media/prixbanque.dd6e50b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13c83a90.js",
+    "static/js/2.906af6af.chunk.js",
+    "static/css/main.6c962217.chunk.css",
+    "static/js/main.91f09e16.chunk.js"
+  ]
+}
