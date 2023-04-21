@@ -1,0 +1,19 @@
+.service {
+  padding: 2em;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s linear;
+}
+
+.service:hover {
+  transform: translateY(-7px);
+}
+
+.service__description {
+  margin-top: 1em;
+}
+
+.service .link--icon {
+  margin-left: 0.5em;
+}

@@ -1,0 +1,25 @@
+.profile__grid {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
+    grid-gap: 2em;
+}
+
+.profile_section_title {
+   margin-bottom: 20px;
+}
+
+.profile_description {
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 14pt;
+}
+
+img {
+    max-width: 316px;
+    max-height: 418px;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+}

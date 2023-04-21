@@ -1,0 +1,20 @@
+.ratings {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    margin-bottom: 10px;
+}
+
+.slot {
+min-width: 40px;
+height: 10px;
+margin-right: 5px;
+}
+
+.filled {
+background-color: var(--clr-primary);
+}
+
+.empty {
+    background-color: var(--clr-fg);
+}
