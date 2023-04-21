@@ -22,7 +22,8 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Benjamin NGABMEN',
   role: ['Ingénieur logiciel', 'Développeur full-stack', 'UI/UX Designer'],
-  resume: 'https://example.com',
+  resume:
+    'https://drive.google.com/file/d/1ZMwA7K-_u-QHzRLxjwxPt-tNlWkOZxKi/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/benjamin-ngabmen-njawat-762317196/',
     github: 'https://github.com/benjaminwiseboy',
@@ -42,7 +43,7 @@ const projects = [
     description: 'Plateforme web de recherche de chambre universitaire ',
     stack: ['Bootstrap', 'JS', 'Code igniter'],
     sourceCode: 'https://github.com/benjaminwiseboy/CRCI-UI',
-    livePreview: 'www.crci.cm',
+    livePreview: 'https://crci.cm',
   },
   {
     name: 'Delicious',
